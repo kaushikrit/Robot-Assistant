@@ -21,8 +21,3 @@ def test_divide_by_zero():
            divide(10, 0)
 
 
-test_add()
-test_subtract()
-test_multiply()
-test_divide()
-test_divide_by_zero()
